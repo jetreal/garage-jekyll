@@ -1,0 +1,1 @@
+if(document.querySelector(".digital-clock")){function showTime(){let e=new Date,t=e.getHours(),o=e.getMinutes(),c=e.getSeconds(),i="AM";t>12&&(t-=12,i="PM"),0==t&&(t=12,i="AM"),t=t<10?"0"+t:t,o=o<10?"0"+o:o,c=c<10?"0"+c:c;let n=t+":"+o+":"+c+" "+i;document.querySelector(".digital-clock").innerHTML=n}setInterval(showTime,1e3)}
