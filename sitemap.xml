@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://autocolor32.ru/about</loc>
-<lastmod>2026-04-11T17:05:42+03:00</lastmod>
-</url>
-<url>
-<loc>https://autocolor32.ru/catalog</loc>
-<lastmod>2026-04-11T17:05:42+03:00</lastmod>
-</url>
-<url>
-<loc>https://autocolor32.ru/contacts</loc>
-<lastmod>2026-04-11T17:05:42+03:00</lastmod>
-</url>
-<url>
-<loc>https://autocolor32.ru/faq</loc>
-<lastmod>2026-04-11T17:05:42+03:00</lastmod>
-</url>
-<url>
-<loc>https://autocolor32.ru/feedbacks</loc>
-<lastmod>2026-04-11T17:05:42+03:00</lastmod>
-</url>
-<url>
 <loc>https://autocolor32.ru/</loc>
 </url>
 </urlset>

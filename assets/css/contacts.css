@@ -1,1 +1,95 @@
-.map{width:468px;height:468px;background-color:#333;border-radius:4px;border:4px solid gray;box-shadow:1px 1px 25px 10px rgba(0,0,0,.67)}.contactsSectionWrap{background-color:#e6d1d1;padding:20px 0 60px;min-height:500px}.contactsSectionWrap h2{margin:initial;padding:initial;text-align:center;padding-top:15px}.contactsSection{display:grid;grid-template-columns:auto auto}@media screen and (max-width: 1100px){.contactsSection{grid-template-columns:auto}}.contactsSectionMapWrap{min-width:500px;padding:60px;margin:0 auto}.contactsSection__mapText{text-align:center;font-size:1.5em;margin:initial;padding:initial}.contactsSectionRightPanel{max-width:700px;font-size:1.4em;margin:0 auto}.contactsSectionRightPanel h2{color:#333;margin:0 0 20px;position:relative;left:-150px}.contactsSectionRightPanel p{margin:initial;padding:initial}.contactsSectionRightPanel #contText1{text-indent:40px;margin:0 0 20px}.contactsSectionRightPanel #contText2{margin:0 0 20px}.contactsSectionRightPanel #contText2 span{position:relative;left:30px}.contactsSectionRightPanel #contText3{margin:0 0 20px}.contactsSectionRightPanel #contText3 span{position:relative;left:30px}.contactsSectionRightPanel #contText4{margin:0 0 20px}.contactsSectionRightPanel #contText4 span{position:relative;left:40px}.contactsSectionRightPanel #contText5{margin:0 0 20px}.contactsSectionRightPanel #contText5 span{position:relative;left:30px;font-size:1.5em;white-space:nowrap}/*# sourceMappingURL=contacts.css.map */
+.map {
+  width: 468px;
+  height: 468px;
+  background-color: #333;
+  border-radius: 4px;
+  border: 4px solid gray;
+  box-shadow: 1px 1px 25px 10px rgba(0, 0, 0, 0.67);
+}
+
+.contactsSectionWrap {
+  background-color: #e6d1d1;
+  padding: 20px 0 60px;
+  min-height: 500px;
+}
+.contactsSectionWrap h2 {
+  margin: initial;
+  padding: initial;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.contactsSection {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+@media screen and (max-width: 1100px) {
+  .contactsSection {
+    grid-template-columns: auto;
+  }
+}
+.contactsSectionMapWrap {
+  min-width: 500px;
+  padding: 60px;
+  margin: 0 auto;
+}
+
+.contactsSection__mapText {
+  text-align: center;
+  font-size: 1.5em;
+  margin: initial;
+  padding: initial;
+}
+
+.contactsSectionRightPanel {
+  max-width: 700px;
+  font-size: 1.4em;
+  margin: 0 auto;
+}
+.contactsSectionRightPanel h2 {
+  color: #333333;
+  margin: 0 0 20px;
+  position: relative;
+  left: -150px;
+}
+.contactsSectionRightPanel p {
+  margin: initial;
+  padding: initial;
+}
+.contactsSectionRightPanel #contText1 {
+  text-indent: 40px;
+  margin: 0 0 20px;
+}
+.contactsSectionRightPanel #contText2 {
+  margin: 0 0 20px;
+}
+.contactsSectionRightPanel #contText2 span {
+  position: relative;
+  left: 30px;
+}
+.contactsSectionRightPanel #contText3 {
+  margin: 0 0 20px;
+}
+.contactsSectionRightPanel #contText3 span {
+  position: relative;
+  left: 30px;
+}
+.contactsSectionRightPanel #contText4 {
+  margin: 0 0 20px;
+}
+.contactsSectionRightPanel #contText4 span {
+  position: relative;
+  left: 40px;
+}
+.contactsSectionRightPanel #contText5 {
+  margin: 0 0 20px;
+}
+.contactsSectionRightPanel #contText5 span {
+  position: relative;
+  left: 30px;
+  font-size: 1.5em;
+  white-space: nowrap;
+}
+
+/*# sourceMappingURL=contacts.css.map */

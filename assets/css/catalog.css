@@ -1,1 +1,94 @@
-.catalogWrapper{min-height:650px;max-width:1050px;margin:0 auto -10px;background-color:#c5bcbc;background-image:url("/assets/images/akzonobel-logo2.webp");background-size:cover}.catalogWrapper h1{margin:initial;text-align:center;padding-top:20px;color:#333;font-size:2em;letter-spacing:1.3px}.catalogWrapper a{display:block;width:200px;height:40px;padding:10px;border-radius:18px;text-align:center;text-decoration:none;position:relative;top:30px;left:560px}.catalogWrapper button{z-index:0}#catalogWrapperText{position:relative;top:30px;left:40px;line-height:1.5em;border-radius:6px;border:2px solid #2778c9;outline:2px solid #68b699;width:300px;padding:14px;color:#f1f3f4;background-color:rgba(100,100,100,.5)}.priceDivWrapper{width:100%;min-height:0px;position:relative;background-color:#c5bcbc;max-width:1050px;margin:0 auto;padding-bottom:45px}.priceDiv{margin:0 auto;border:1px solid #005596;max-width:80%;height:0px;overflow:hidden;transition:height cubic-bezier(0.02, 1.12, 0.02, 0.96) 1s,padding cubic-bezier(0.02, 1.12, 0.02, 0.96) 1s;color:#f1f3f4;background-color:rgba(100,100,100,.5);border:1px solid #2778c9;list-style-type:none;text-indent:30px;font-size:1.3em}.priceOpen{height:430px;padding:25px 0;outline:2px solid #68b699;border-radius:4px}.priceDivLi{padding:6px 0}.priceDivSpan{font-size:1.4em;text-indent:45px}.priceDivLiLi{font-size:1.4em;text-indent:55px;padding:16px 0 0}/*# sourceMappingURL=catalog.css.map */
+.catalogWrapper {
+  min-height: 650px;
+  max-width: 1050px;
+  margin: 0 auto -10px;
+  background-color: #c5bcbc;
+  background-image: url("/assets/images/akzonobel-logo2.webp");
+  background-size: cover;
+}
+.catalogWrapper h1 {
+  margin: initial;
+  text-align: center;
+  padding-top: 20px;
+  color: #333;
+  font-size: 2em;
+  letter-spacing: 1.3px;
+}
+.catalogWrapper a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 18px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  top: 30px;
+  left: 560px;
+}
+.catalogWrapper button {
+  z-index: 0;
+}
+
+#catalogWrapperText {
+  position: relative;
+  top: 30px;
+  left: 40px;
+  line-height: 1.5em;
+  border-radius: 6px;
+  border: 2px solid #2778C9;
+  outline: 2px solid #68B699;
+  width: 300px;
+  padding: 14px;
+  color: #F1F3F4;
+  background-color: rgba(100, 100, 100, 0.5);
+}
+
+.priceDivWrapper {
+  width: 100%;
+  min-height: 0px;
+  position: relative;
+  background-color: #C5BCBC;
+  max-width: 1050px;
+  margin: 0 auto;
+  padding-bottom: 45px;
+}
+
+.priceDiv {
+  margin: 0 auto;
+  border: 1px solid #005596;
+  max-width: 80%;
+  height: 0px;
+  overflow: hidden;
+  transition: height cubic-bezier(0.02, 1.12, 0.02, 0.96) 1s, padding cubic-bezier(0.02, 1.12, 0.02, 0.96) 1s;
+  color: #F1F3F4;
+  background-color: rgba(100, 100, 100, 0.5);
+  border: 1px solid #2778C9;
+  list-style-type: none;
+  text-indent: 30px;
+  font-size: 1.3em;
+}
+
+.priceOpen {
+  height: 430px;
+  padding: 25px 0;
+  outline: 2px solid #68B699;
+  border-radius: 4px;
+}
+
+.priceDivLi {
+  padding: 6px 0;
+}
+
+.priceDivSpan {
+  font-size: 1.4em;
+  text-indent: 45px;
+}
+
+.priceDivLiLi {
+  font-size: 1.4em;
+  text-indent: 55px;
+  padding: 16px 0 0;
+}
+
+/*# sourceMappingURL=catalog.css.map */
